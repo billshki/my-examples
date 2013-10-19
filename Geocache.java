@@ -27,7 +27,7 @@
  * range, the new value is ignored and the Geocache's x value remains unchanged.
  * 
  * Create a get method for id.
- * 
+ * @author schmnsk2
  */
 class Geocache {
 	private double x, y;
