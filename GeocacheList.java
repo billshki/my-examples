@@ -1,4 +1,5 @@
 //UIUC CS125 FALL 2013 MP. File: GeocacheList.java, CS125 Project: Challenge5-DataStructures, Version: 2013-10-14T15:57:58-0500.653928462
+//@author schmnsk2
 /**
  * Complete the following GeocacheList, to ensure all unit tests pass. There are
  * several errors in the code below
