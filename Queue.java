@@ -1,5 +1,5 @@
 //UIUC CS125 FALL 2013 MP. File: Queue.java, CS125 Project: Challenge5-DataStructures, Version: 2013-10-14T15:57:58-0500.653928462
-
+//@author schmnsk2
 public class Queue {
 	private double[] queue = new double[0];
 
