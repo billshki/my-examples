@@ -64,7 +64,6 @@ public class Stack {
 		} else
 			s = null;
 		// throw new RuntimeException("Rope is thicker but String is quicker");
-		System.out.println(s);
 		return s.toString();
 	}
 }
